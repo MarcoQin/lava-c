@@ -1,5 +1,8 @@
 # Prerequisites
 *.d
+.vscode/
+player
+play.sh
 
 # Object files
 *.o
